@@ -5,4 +5,15 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+\bibitem[Chaves 2021]{Chaves}
+\abntrefinfo{Chaves}{CHAVES}{2021}
+{CHAVES, I. \textbf{Blockchain e Criptomoedas}. [\textit{S. l.}]: InterSaberes,
+  2021.}
+
+\bibitem[Voshmgir 2021]{Voshmgir}
+\abntrefinfo{Voshmgir}{VOSHMGIR}{2021}
+{VOSHMGIR, S. \textbf{Economia dos Tokens: Como a Web3 está reinventando a
+  Internet e as relações entre os agentes económicos}. [\textit{S. l.}]:
+  Token Kitchen, 2021.}
+
 \end{thebibliography}
