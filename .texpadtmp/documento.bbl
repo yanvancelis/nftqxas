@@ -5,10 +5,46 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
-\bibitem[Chaves 2021]{Chaves}
-\abntrefinfo{Chaves}{CHAVES}{2021}
-{CHAVES, I. \textbf{Blockchain e Criptomoedas}. [\textit{S. l.}]: InterSaberes,
-  2021.}
+\bibitem[Andrade 2022]{Andrade}
+\abntrefinfo{Andrade}{ANDRADE}{2022}
+{ANDRADE, J. \textbf{Bored Apes: conheça os NFTs do Neymar}. São Paulo:
+  Estadão, 2022.
+Dispon{\'\i}vel em:
+  \url{https://einvestidor.estadao.com.br/criptomoedas/bored-ape-nft-neymar-valor/}.
+  Acesso em: 14 jan. 2023.}
+
+\bibitem[Antonopoulos 2019]{Antonopoulos}
+\abntrefinfo{Antonopoulos}{ANTONOPOULOS}{2019}
+{ANTONOPOULOS, D. G.~W. A.~M. \textbf{Mastering Ethereum}. [\textit{S. l.}]:
+  O'Reilly, 2019.}
+
+\bibitem[Kugler 2021]{Kugler}
+\abntrefinfo{Kugler}{KUGLER}{2021}
+{KUGLER, L. Non-fungible tokens and the future of art.
+\textbf{Communications of the ACM}, v.~64, n.~09, p. 19--20, 2021.}
+
+\bibitem[Lyra 2019]{Lyra}
+\abntrefinfo{Lyra}{LYRA}{2019}
+{LYRA, J.~G. \textbf{Blockchain e Organizações Descentralizadas}. [\textit{S.
+  l.}]: Brasport, 2019.}
+
+\bibitem[Montesso 2022]{Montesso}
+\abntrefinfo{Montesso}{MONTESSO}{2022}
+{MONTESSO, A. Saiba tudo sobre nft na fotografia. [entrevista concedida a]
+  sérgio branco.
+\textbf{Fotografe}, v.~1, n.~314, p. 19--30, 2022.}
+
+\bibitem[Preger 2022]{Preger}
+\abntrefinfo{Preger}{PREGER}{2022}
+{PREGER, G. \textbf{O futuro das criptomoedas}. A terra é redonda, 2022.
+Dispon{\'\i}vel em:
+  \url{https://aterraeredonda.com.br/o-futuro-das-criptomoedas/}. Acesso em: 14
+  jan. 2023.}
+
+\bibitem[Vieira 2011]{Vieira}
+\abntrefinfo{Vieira}{VIEIRA}{2011}
+{VIEIRA, A.~P. \textbf{Direito Autoral na Sociedade Digital}. [\textit{S. l.}]:
+  Montecristo Editora, 2011.}
 
 \bibitem[Voshmgir 2021]{Voshmgir}
 \abntrefinfo{Voshmgir}{VOSHMGIR}{2021}

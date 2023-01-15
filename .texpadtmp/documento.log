@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.20)  14 JAN 2023 15:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.20)  15 JAN 2023 19:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1239,18 +1239,18 @@ This document will not have a glossary.
 
 ] (/Users/yan/Documents/TCC/.texpadtmp/documento.aux) ) 
 Here is how much of TeX's memory you used:
- 31837 strings out of 478268
- 543222 string characters out of 5846346
- 1048977 words of memory out of 5000000
- 49380 multiletter control sequences out of 15000+600000
- 512909 words of font info for 195 fonts, out of 8000000 for 9000
+ 31918 strings out of 478268
+ 544204 string characters out of 5846346
+ 1051824 words of memory out of 5000000
+ 49420 multiletter control sequences out of 15000+600000
+ 518331 words of font info for 219 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 96i,12n,120p,1552b,486s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 96i,12n,120p,1358b,486s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/yan/Documents/TCC/.texpadtmp/documento.pdf (4 pages, 49205 bytes).
+Output written on /Users/yan/Documents/TCC/.texpadtmp/documento.pdf (4 pages, 56802 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
- 52249 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 109 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
+ 22 named destinations out of 1000 (max. 500000)
+ 56345 words of extra memory for PDF output out of 61914 (max. 10000000)
 
