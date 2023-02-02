@@ -13,62 +13,66 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: abntex2-options.bib
 Database file #2: ../3-pos-textuais/referencias.bib
-I was expecting a `,' or a `}'---line 35 of file ../3-pos-textuais/referencias.bib
+I was expecting a `,' or a `}'---line 49 of file ../3-pos-textuais/referencias.bib
  : @book{Lantz 
  :             e Cawrey,
 I'm skipping whatever remains of this entry
+Warning--entry type for "Ortega" isn't style-file defined
+--line 182 of file ../3-pos-textuais/referencias.bib
 Warning--entry type for "Andrade" isn't style-file defined
---line 116 of file ../3-pos-textuais/referencias.bib
+--line 193 of file ../3-pos-textuais/referencias.bib
 Warning--entry type for "Preger" isn't style-file defined
---line 126 of file ../3-pos-textuais/referencias.bib
+--line 203 of file ../3-pos-textuais/referencias.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+urrul is an illegal case-conversion string for entry MINC
+while executing---line 2203 of file ../lib/abntex2-alf.bst
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 13 entries,
+You've used 22 entries,
             6855 wiz_defined-function locations,
-            1271 strings with 10593 characters,
-and the built_in function-call counts, 9636 in all, are:
-= -- 1001
-> -- 125
-< -- 144
-+ -- 223
-- -- 43
-* -- 525
-:= -- 1246
-add.period$ -- 28
-call.type$ -- 15
-change.case$ -- 65
-chr.to.int$ -- 27
-cite$ -- 8
-duplicate$ -- 712
-empty$ -- 743
-format.name$ -- 184
-if$ -- 2176
+            1330 strings with 11958 characters,
+and the built_in function-call counts, 20997 in all, are:
+= -- 2336
+> -- 232
+< -- 451
++ -- 565
+- -- 78
+* -- 1165
+:= -- 2596
+add.period$ -- 57
+call.type$ -- 24
+change.case$ -- 119
+chr.to.int$ -- 42
+cite$ -- 17
+duplicate$ -- 1926
+empty$ -- 1304
+format.name$ -- 345
+if$ -- 4492
 int.to.chr$ -- 4
 int.to.str$ -- 3
-missing$ -- 196
-newline$ -- 44
-num.names$ -- 40
-pop$ -- 222
+missing$ -- 355
+newline$ -- 85
+num.names$ -- 75
+pop$ -- 428
 preamble$ -- 1
-purify$ -- 39
+purify$ -- 66
 quote$ -- 0
-skip$ -- 981
+skip$ -- 2237
 stack$ -- 1
-substring$ -- 382
-swap$ -- 264
-text.length$ -- 8
+substring$ -- 903
+swap$ -- 698
+text.length$ -- 16
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 4
 warning$ -- 0
-while$ -- 56
+while$ -- 108
 width$ -- 0
-write$ -- 130
-(There was 1 error message)
+write$ -- 264
+(There were 2 error messages)
