@@ -17,12 +17,20 @@ I was expecting a `,' or a `}'---line 49 of file ../3-pos-textuais/referencias.b
  : @book{Lantz 
  :             e Cawrey,
 I'm skipping whatever remains of this entry
+Warning--entry type for "Holland" isn't style-file defined
+--line 207 of file ../3-pos-textuais/referencias.bib
+Warning--entry type for "Ignacio" isn't style-file defined
+--line 218 of file ../3-pos-textuais/referencias.bib
 Warning--entry type for "Ortega" isn't style-file defined
---line 182 of file ../3-pos-textuais/referencias.bib
+--line 238 of file ../3-pos-textuais/referencias.bib
+Warning--entry type for "Rkain" isn't style-file defined
+--line 248 of file ../3-pos-textuais/referencias.bib
 Warning--entry type for "Andrade" isn't style-file defined
---line 193 of file ../3-pos-textuais/referencias.bib
+--line 258 of file ../3-pos-textuais/referencias.bib
+Warning--entry type for "Artnome" isn't style-file defined
+--line 268 of file ../3-pos-textuais/referencias.bib
 Warning--entry type for "Preger" isn't style-file defined
---line 203 of file ../3-pos-textuais/referencias.bib
+--line 277 of file ../3-pos-textuais/referencias.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
@@ -34,45 +42,45 @@ while executing---line 2203 of file ../lib/abntex2-alf.bst
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 22 entries,
+You've used 29 entries,
             6855 wiz_defined-function locations,
-            1330 strings with 11958 characters,
-and the built_in function-call counts, 20997 in all, are:
-= -- 2336
-> -- 232
-< -- 451
-+ -- 565
-- -- 78
-* -- 1165
-:= -- 2596
-add.period$ -- 57
-call.type$ -- 24
-change.case$ -- 119
-chr.to.int$ -- 42
-cite$ -- 17
-duplicate$ -- 1926
-empty$ -- 1304
-format.name$ -- 345
-if$ -- 4492
+            1371 strings with 13012 characters,
+and the built_in function-call counts, 32840 in all, are:
+= -- 3796
+> -- 397
+< -- 817
++ -- 991
+- -- 130
+* -- 1865
+:= -- 4016
+add.period$ -- 86
+call.type$ -- 31
+change.case$ -- 177
+chr.to.int$ -- 46
+cite$ -- 24
+duplicate$ -- 3249
+empty$ -- 1737
+format.name$ -- 592
+if$ -- 6781
 int.to.chr$ -- 4
 int.to.str$ -- 3
-missing$ -- 355
-newline$ -- 85
-num.names$ -- 75
-pop$ -- 428
+missing$ -- 481
+newline$ -- 118
+num.names$ -- 110
+pop$ -- 599
 preamble$ -- 1
-purify$ -- 66
+purify$ -- 91
 quote$ -- 0
-skip$ -- 2237
+skip$ -- 3591
 stack$ -- 1
-substring$ -- 903
-swap$ -- 698
-text.length$ -- 16
+substring$ -- 1395
+swap$ -- 1161
+text.length$ -- 21
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 4
 warning$ -- 0
-while$ -- 108
+while$ -- 155
 width$ -- 0
-write$ -- 264
+write$ -- 370
 (There were 2 error messages)
